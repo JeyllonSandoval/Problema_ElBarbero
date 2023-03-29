@@ -14,19 +14,19 @@ Al comienzo del código se definen las siguientes **variables** y **semáforos**
 
 
 ### semáforos para manejar las secciones críticas
-`mutex = threading.Semaphore(1)  
+`mutex = threading.Semaphore(1)`  
 
-clientes_esperando = threading.Semaphore(0)  
+`clientes_esperando = threading.Semaphore(0)`  
 
-barbero_ocupado = threading.Semaphore(0)`  
+`barbero_ocupado = threading.Semaphore(0)`  
 
 
 ### variables para rastrear el estado del barbero y las sillas de espera
-`num_sillas_vacias = MAX_SILLAS  
+`num_sillas_vacias = MAX_SILLAS`  
 
-barbero_durmiente = True  
+`barbero_durmiente = True`  
 
-MAX_SILLAS`  
+`MAX_SILLAS`  
 
 
 representa el número máximo de sillas disponibles para los clientes. mutex es un semáforo para proteger secciones críticas del código. clientes_esperando y barbero_ocupado son semáforos para controlar el flujo de clientes y el estado del barbero. num_sillas_vacias es una variable que rastrea la cantidad de sillas vacías en la barbería, y barbero_durmiente es una variable que indica si el barbero está durmiendo o no.
