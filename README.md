@@ -73,4 +73,4 @@ Puedes encontrar el código completo en el archivo **Problema_Barberia.py**.
 
 # Diagrama de Flujo
 
-> [Diagrama de Flujo](https://github.com/JeyllonSandoval/Problema_ElBarbero/blob/main/_Diagrama%20de%20Flujo.pdf).
+> [Diagrama de Flujo](https://github.com/JeyllonSandoval/Problema_ElBarbero/blob/main/Diagrama_de_Flujo.pdf)
