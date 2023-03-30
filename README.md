@@ -70,3 +70,5 @@ Cuando el barbero está disponible, se despierta y atiende a un cliente. Despué
 El código utiliza la función **time.sleep** para simular el tiempo que tarda el barbero en cortar el cabello del cliente y para simular el tiempo que tarda un cliente en llegar a la barbería y sentarse en una silla de espera. La función **random.randint** se utiliza para generar números aleatorios que se utilizan en el tiempo de espera.
 
 Puedes encontrar el código completo en el archivo **Problema_Barberia.py**.
+
+# Diagrama de Flujo
