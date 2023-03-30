@@ -71,6 +71,6 @@ El código utiliza la función **time.sleep** para simular el tiempo que tarda e
 
 Puedes encontrar el código completo en el archivo **Problema_Barberia.py**.
 
-#Diagrama de Flujo
+# Diagrama de Flujo
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+> [Diagrama de Flujo](https://github.com/JeyllonSandoval/Problema_ElBarbero/blob/main/_Diagrama%20de%20Flujo.pdf).
