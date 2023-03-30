@@ -72,3 +72,5 @@ El código utiliza la función **time.sleep** para simular el tiempo que tarda e
 Puedes encontrar el código completo en el archivo **Problema_Barberia.py**.
 
 # Diagrama de Flujo
+
+![Diagrama de Contexto](/_Diagrama de Flujo)
