@@ -71,6 +71,14 @@ El código utiliza la función **time.sleep** para simular el tiempo que tarda e
 
 Puedes encontrar el código completo en el archivo **Problema_Barberia.py**.
 
-# Diagrama de Flujo
+### Codigo de la solucion del problema de python
+
+> [Problema de los Barberos](https://github.com/JeyllonSandoval/Problema_ElBarbero/blob/main/Problema_Barberia.py)
+
+### Diagrama de Flujo
 
 > [Diagrama de Flujo](https://github.com/JeyllonSandoval/Problema_ElBarbero/blob/main/Diagrama_de_Flujo.pdf)
+
+### Video Explicativo sobre la solucion del problema de los barberos
+
+> [Video Expliactivo](https://miucateciedu-my.sharepoint.com/:v:/g/personal/20211155_miucateci_edu_do/EecrVxEajqRKuG1QKz6nJ9cB11w7QyjggIXyfJYwW9NI_Q?e=ObzJep)
